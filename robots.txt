@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://edemir.github.io/sitemap.xml
